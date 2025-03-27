@@ -36,3 +36,22 @@ Ensure you have the following installed:
 🔹 Python 3.9+
 🔹 Ollama (for local LLM hosting) – Install from Ollama’s official site
 🔹 Virtual Environment (Recommended)
+
+Demo
+🖥️ Upload an Excel file containing:
+
+Sheet 1: Table Data
+
+Sheet 2: List of Questions
+
+📊 The system will analyze the table and provide AI-generated answers.
+
+Use Cases
+✅ Business Intelligence – Automate data analysis & insights generation
+✅ Market Research – Extract trends from structured datasets
+✅ Enterprise Analytics – In-house AI-driven reports without cloud costs
+
+License
+📜 MIT License – Free to modify and use for commercial & personal projects.
+
+
